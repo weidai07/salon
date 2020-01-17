@@ -1,0 +1,80 @@
+{
+  "FilePath": "/Users/Guest/Desktop/HairSalon.Solution/Salon/Salon.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "Salon",
+  "Documents": [
+    {
+      "FilePath": "/Users/Guest/Desktop/HairSalon.Solution/Salon/Views/Clients/Edit.cshtml",
+      "TargetPath": "Views/Clients/Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Guest/Desktop/HairSalon.Solution/Salon/Views/Clients/Details.cshtml",
+      "TargetPath": "Views/Clients/Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Guest/Desktop/HairSalon.Solution/Salon/Views/Stylists/Details.cshtml",
+      "TargetPath": "Views/Stylists/Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Guest/Desktop/HairSalon.Solution/Salon/Views/Clients/Index.cshtml",
+      "TargetPath": "Views/Clients/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Guest/Desktop/HairSalon.Solution/Salon/Views/Stylists/Create.cshtml",
+      "TargetPath": "Views/Stylists/Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Guest/Desktop/HairSalon.Solution/Salon/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views/Shared/_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Guest/Desktop/HairSalon.Solution/Salon/Views/Stylists/Index.cshtml",
+      "TargetPath": "Views/Stylists/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Guest/Desktop/HairSalon.Solution/Salon/Views/Stylists/Edit.cshtml",
+      "TargetPath": "Views/Stylists/Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Guest/Desktop/HairSalon.Solution/Salon/Views/Clients/Delete.cshtml",
+      "TargetPath": "Views/Clients/Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Guest/Desktop/HairSalon.Solution/Salon/Views/Stylists/Delete.cshtml",
+      "TargetPath": "Views/Stylists/Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Guest/Desktop/HairSalon.Solution/Salon/Views/Clients/Create.cshtml",
+      "TargetPath": "Views/Clients/Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Guest/Desktop/HairSalon.Solution/Salon/Views/Home/Index.cshtml",
+      "TargetPath": "Views/Home/Index.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}

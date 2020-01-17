@@ -1,0 +1,6 @@
+/Users/Guest/Desktop/untitled folder/cs12todo/Salon.Solution/Salon/obj/Debug/netcoreapp2.2/Salon.csprojAssemblyReference.cache
+/Users/Guest/Desktop/untitled folder/cs12todo/Salon.Solution/Salon/obj/Debug/netcoreapp2.2/Salon.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/untitled folder/cs12todo/Salon.Solution/Salon/obj/Debug/netcoreapp2.2/Salon.RazorAssemblyInfo.cache
+/Users/Guest/Desktop/untitled folder/cs12todo/Salon.Solution/Salon/obj/Debug/netcoreapp2.2/Salon.RazorAssemblyInfo.cs
+/Users/Guest/Desktop/untitled folder/cs12todo/Salon.Solution/Salon/obj/Debug/netcoreapp2.2/Salon.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/untitled folder/cs12todo/Salon.Solution/Salon/obj/Debug/netcoreapp2.2/Salon.AssemblyInfo.cs
