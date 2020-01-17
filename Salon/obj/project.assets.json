@@ -12160,11 +12160,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/HairSalon.Solution/Salon/Salon.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/salon/Salon/Salon.csproj",
       "projectName": "Salon",
-      "projectPath": "/Users/Guest/Desktop/HairSalon.Solution/Salon/Salon.csproj",
+      "projectPath": "/Users/Guest/Desktop/salon/Salon/Salon.csproj",
       "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Desktop/HairSalon.Solution/Salon/obj/",
+      "outputPath": "/Users/Guest/Desktop/salon/Salon/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
