@@ -2,6 +2,7 @@ body {
     margin: 0 auto;
     max-width: 1200px;
     text-align: center;
+    background-color: yellow; 
 }
 ul li{
     list-style-type: none;
