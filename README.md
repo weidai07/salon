@@ -26,6 +26,10 @@ Github - https://github.com/weidai07/salon
 
   This programs allows hair salon owners to keep track of how many stylists work for them as well as how many clients each hair stylists have under them. Every client is assigned to a stylists therefore no clients will be left out. 
 
+### SQL Table
+
+
+
 ## Known Bugs
 
 * _None at this time_
